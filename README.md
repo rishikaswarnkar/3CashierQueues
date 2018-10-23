@@ -1,16 +1,5 @@
-# 3CashierQueues
-//************ PROGRAM IDENTIFICATION  ************************
-//*                                                           *
-//*PROGRAM FILE NAME: Source.cpp  Assisgnment #:3			        *
-//*                                                           *
-//* PROGRAM AUTHOR:    _________________________              *
-//*                        Rishika Swarnkar                   *
-//*                                                           *
-//*COURSE: CSC 36000 11        Due: Feb 26,2018               *
-//*                                                           *
-//**************************************************************
-//*************** PROGRAM DESCRIPTION ***************************
-//*                                                             *
+PROGRAM DESCRIPTION 
+
 //PROCESS:The  program employes queues to simulate customer     * 
 //*processing at supermarket. Input has an unknown number of    *
 //*records which includes information about each customer i.e.: *
