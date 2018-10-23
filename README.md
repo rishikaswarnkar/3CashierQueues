@@ -17,25 +17,22 @@ The first list is the order in whch the customers entered the queues(an echo pri
 “Linked list” and "Structures" are used to maintain each list
 Each list has a label and is printed out vertically	sidebyside												                          
 /****************************************************************/
-//* USER DEFINED                                                *
-//* MODULES :									                      	     	    *
-//*CashierClass():sets all the value of pointer and counters    *
-//*               to null									                      *
-//*inc_timer()   : Increase timer by 1				        	        * 
-//*get_timer()   : Returns timer value							            *
-//*inc_counter() : Increase counter by 1					            	*
-//*get_counter() : Returns counter time						            	*
-//*resetTimer()  : Resest timer to zero						            	*
-//*~CashierClass():Deletes the queues							              *
-//*IsFull()       :Check if the Queue is full					          *
-//*First()        :returns the first node of the queue			    *
-//* Last()        :returns the last node of the queue			      *
-//*Add(NodeType*) : Adds a node to the Queue					          *
-//*processTime()  : process time of front node of the queue		  *
-//*print(ofstream): Print the Queue								              *
-//*IsEmpty()      :Checks if the queue is empty					        *
-//*Remove(NodeType*): Removes the top of the queue				      *
-//*Addfinal(NodeType *, NodeType *): Adds the two Queue to one  *
-//*						          linked list for the echo print          *
-//*printFinal(ofstream &): Prints the two list side by side		  *
+//* USER DEFINED MODULES :									                      	     	  
+CashierClass():sets all the value of pointer and counters to null									                    
+inc_timer()   : Increase timer by 1				        	        
+get_timer()   : Returns timer value							            
+inc_counter() : Increase counter by 1					            	
+get_counter() : Returns counter time						            	
+resetTimer()  : Resest timer to zero						            	
+~CashierClass():Deletes the queues							              
+IsFull()       :Check if the Queue is full					          
+First()        :returns the first node of the queue			   
+Last()        :returns the last node of the queue			      
+Add(NodeType*) : Adds a node to the Queue					          
+processTime()  : process time of front node of the queue		  
+print(ofstream): Print the Queue								              
+IsEmpty()      :Checks if the queue is empty					        
+Remove(NodeType*): Removes the top of the queue				      
+Addfinal(NodeType *, NodeType *): Adds the two Queue to one linked list for the echo print          
+printFinal(ofstream &): Prints the two list side by side
 //***************************************************************
