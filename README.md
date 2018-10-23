@@ -12,15 +12,10 @@ The program is to process customers as they enter one of THREE (3)checkout line 
 5.  Once a customer's processing time is zero, the customer leaves the store(i.e. remove the customer from the queue)
 When scanning queues for adding, always start with #1 and proceed numerically to #2 then #3.							            
 /****************************************************************/
-//*OUTPUT:Output for this program is to consist of two lists.   *
-//*The first list is the order in whch the customers entered the*
-//*queues(an echo print of the list of names as they entered the*
-//*queues without arrival or processing times)The second list is*
-//*the order in which each customer was processed(a list of cust*
-//*omers as they leave the store. )						              		*
-//*“Linked list” and "Structures" are used to maintain each list*
-//*Each list has a label and is printed out vertically			    *
-//*sidebyside												                          	*
+OUTPUT:Output for this program is to consist of two lists.   
+The first list is the order in whch the customers entered the queues(an echo print of the list of names as they entered the queues without arrival or processing times)The second list is the order in which each customer was processed(a list of customers as they leave the store. )
+“Linked list” and "Structures" are used to maintain each list
+Each list has a label and is printed out vertically	sidebyside												                          
 /****************************************************************/
 //* USER DEFINED                                                *
 //* MODULES :									                      	     	    *
