@@ -36,7 +36,7 @@ PROGRAM DESCRIPTION
 //*queues(an echo print of the list of names as they entered the*
 //*queues without arrival or processing times)The second list is*
 //*the order in which each customer was processed(a list of cust*
-//*omers as they leave the store.)						              		*
+//*omers as they leave the store. )						              		*
 //*“Linked list” and "Structures" are used to maintain each list*
 //*Each list has a label and is printed out vertically			    *
 //*sidebyside												                          	*
